@@ -5,6 +5,18 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+\bibitem[Young(1998)]{young1998evaluation}
+Peter~R Young.
+\newblock L'{\'e}valuation des services {\'e}lectroniques en biblioth{\`e}que.
+\newblock 1998.
+
+\bibitem[Saleh and Lasisi(2011)]{Saleh}
+Adam~G. Saleh and Fatima~I. Lasisi.
+\newblock An assessment of public library services in north eastern nigeria.
+\newblock \emph{Library Philosophy and Practice}, pages 1--7, 01 2011.
+\newblock Copyright - Copyright Library Philosophy and Practice Jan 2011;
+  Dernière mise à jour - 2012-06-29.
+
 \bibitem[Saleh(2009)]{saleh_bibliotheques_2009}
 Imad Saleh.
 \newblock Des bibliothèques numériques : état des lieux et perspectives.
@@ -21,24 +33,12 @@ Camille Rondot.
 \newblock ISSN 0336-1500.
 \newblock Place: Paris cedex 14 Publisher: Presses Universitaires de France.
 
-\bibitem[Young(1998)]{young1998evaluation}
-Peter~R Young.
-\newblock L'{\'e}valuation des services {\'e}lectroniques en biblioth{\`e}que.
-\newblock 1998.
-
 \bibitem[Bertot et~al.(1996)Bertot, {McClure}, and Zweizig]{bertot_1996}
 John~Carlo Bertot, Charles~R. {McClure}, and Douglas Zweizig.
 \newblock \emph{The 1996 national survey of public libraries and the Internet:
   progress and issues}.
 \newblock National Commission on Libraries and Information Science, 1996.
 \newblock ISBN 978-0-16-048736-1.
-
-\bibitem[Saleh and Lasisi(2011)]{Saleh}
-Adam~G. Saleh and Fatima~I. Lasisi.
-\newblock An assessment of public library services in north eastern nigeria.
-\newblock \emph{Library Philosophy and Practice}, pages 1--7, 01 2011.
-\newblock Copyright - Copyright Library Philosophy and Practice Jan 2011;
-  Dernière mise à jour - 2012-06-29.
 
 \bibitem[noa(2009)]{noauthor_mesures_nodate}
 Mesures et évaluation des bibliothèques publiques - 64th {IFLA} general
