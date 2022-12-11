@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2022.11.25)  11 DEC 2022 19:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2022.11.25)  11 DEC 2022 20:24
 entering extended mode
 **./Projet_Gest_BP.tex
 (Projet_Gest_BP.tex
@@ -685,106 +685,92 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--248
 
  []
 
-
-Package natbib Warning: Citation `lanouvellebibliotheque2009' on page 11 undefi
-ned on input line 255.
-
-
-Package natbib Warning: Citation `etudiants2014' on page 11 undefined on input 
-line 263.
-
-[11]
-
-Package natbib Warning: Citation `lyceens2010' on page 12 undefined on input li
-ne 269.
-
-
-Package natbib Warning: Citation `expositions2012' on page 12 undefined on inpu
-t line 283.
-
-[12]
-
-Package natbib Warning: Citation `gaston2019' on page 13 undefined on input lin
-e 289.
+[11] [12]
+! Too many }'s.
+l.290 ...que d'information Centre Pompidou, 2017}}
+                                                  . Elle a Ã©tÃ© confiÃ©e Ã ...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
 
 
 Package natbib Warning: Citation `makers2020' on page 13 undefined on input lin
-e 301.
+e 302.
 
+[13]
 
-Package natbib Warning: Citation `servicessociaux2008' on page 13 undefined on 
-input line 309.
+Package natbib Warning: Citation `servicessociaux2008' on page 14 undefined on 
+input line 310.
 
-[13] [14] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 362--363
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 366--367
+[14] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
 
  []
 
-<1-cdm-vue_generale.JPG, id=63, 481.8pt x 320.6379pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+
+ []
+
+<1-cdm-vue_generale.JPG, id=65, 481.8pt x 320.6379pt>
 File: 1-cdm-vue_generale.JPG Graphic file (type jpg)
 <use 1-cdm-vue_generale.JPG>
-Package pdftex.def Info: 1-cdm-vue_generale.JPG  used on input line 381.
+Package pdftex.def Info: 1-cdm-vue_generale.JPG  used on input line 382.
 (pdftex.def)             Requested size: 481.79881pt x 320.6371pt.
 [16]
-<2-cdm-bibliotheque.JPG, id=67, 192.72pt x 120.45pt>
+<2-cdm-bibliotheque.JPG, id=69, 192.72pt x 120.45pt>
 File: 2-cdm-bibliotheque.JPG Graphic file (type jpg)
 <use 2-cdm-bibliotheque.JPG>
-Package pdftex.def Info: 2-cdm-bibliotheque.JPG  used on input line 389.
+Package pdftex.def Info: 2-cdm-bibliotheque.JPG  used on input line 390.
 (pdftex.def)             Requested size: 192.71951pt x 120.44969pt.
 
-Underfull \hbox (badness 7504) in paragraph at lines 390--390
+Underfull \hbox (badness 7504) in paragraph at lines 391--391
 [][] \T1/lmr/m/n/12  |Cité des mé-tiers de
  []
 
-<3-cdm-centre_de_documentation.JPG, id=68, 192.72pt x 128.1588pt>
+<3-cdm-centre_de_documentation.JPG, id=70, 192.72pt x 128.1588pt>
 File: 3-cdm-centre_de_documentation.JPG Graphic file (type jpg)
 <use 3-cdm-centre_de_documentation.JPG>
 Package pdftex.def Info: 3-cdm-centre_de_documentation.JPG  used on input line 
-393.
+394.
 (pdftex.def)             Requested size: 192.71951pt x 128.15848pt.
 
-Underfull \hbox (badness 7504) in paragraph at lines 394--394
+Underfull \hbox (badness 7504) in paragraph at lines 395--395
 [][] \T1/lmr/m/n/12  |Cité des mé-tiers de
  []
 
-<4-cdm-espace_conseil.JPG, id=69, 203.67pt x 135.6705pt>
+<4-cdm-espace_conseil.JPG, id=71, 203.67pt x 135.6705pt>
 File: 4-cdm-espace_conseil.JPG Graphic file (type jpg)
 <use 4-cdm-espace_conseil.JPG>
-Package pdftex.def Info: 4-cdm-espace_conseil.JPG  used on input line 397.
+Package pdftex.def Info: 4-cdm-espace_conseil.JPG  used on input line 398.
 (pdftex.def)             Requested size: 183.30128pt x 122.1023pt.
 
-Underfull \hbox (badness 3449) in paragraph at lines 398--398
+Underfull \hbox (badness 3449) in paragraph at lines 399--399
 [][] \T1/lmr/m/n/12  |Cité des mé-tiers de
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<5-cdm-auditorium.JPG, id=70, 204.327pt x 135.999pt>
+<5-cdm-auditorium.JPG, id=72, 204.327pt x 135.999pt>
 File: 5-cdm-auditorium.JPG Graphic file (type jpg)
 <use 5-cdm-auditorium.JPG>
-Package pdftex.def Info: 5-cdm-auditorium.JPG  used on input line 401.
+Package pdftex.def Info: 5-cdm-auditorium.JPG  used on input line 402.
 (pdftex.def)             Requested size: 183.89258pt x 122.39795pt.
 
-Underfull \hbox (badness 3646) in paragraph at lines 402--402
+Underfull \hbox (badness 3646) in paragraph at lines 403--403
 [][] \T1/lmr/m/n/12  |Cité des mé-tiers de
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<6-cdm-espace_de_travail.JPG, id=71, 203.9985pt x 135.6705pt>
+<6-cdm-espace_de_travail.JPG, id=73, 203.9985pt x 135.6705pt>
 File: 6-cdm-espace_de_travail.JPG Graphic file (type jpg)
 <use 6-cdm-espace_de_travail.JPG>
-Package pdftex.def Info: 6-cdm-espace_de_travail.JPG  used on input line 405.
+Package pdftex.def Info: 6-cdm-espace_de_travail.JPG  used on input line 406.
 (pdftex.def)             Requested size: 183.59695pt x 122.1023pt.
 
-Underfull \hbox (badness 3547) in paragraph at lines 406--406
+Underfull \hbox (badness 3547) in paragraph at lines 407--407
 [][] \T1/lmr/m/n/12  |Cité des mé-tiers de
  []
 
@@ -793,20 +779,20 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [17 <./1-cdm-vue_generale.JPG> <./2-cdm-bibliotheque.JPG> <./3-cdm-centre_de_do
 cumentation.JPG>] [18 <./4-cdm-espace_conseil.JPG> <./5-cdm-auditorium.JPG>]
-<8-cdm-echantillon1.PNG, id=79, 1480.78218pt x 855.195pt>
+<8-cdm-echantillon1.PNG, id=81, 1480.78218pt x 855.195pt>
 File: 8-cdm-echantillon1.PNG Graphic file (type png)
 <use 8-cdm-echantillon1.PNG>
-Package pdftex.def Info: 8-cdm-echantillon1.PNG  used on input line 430.
+Package pdftex.def Info: 8-cdm-echantillon1.PNG  used on input line 431.
 (pdftex.def)             Requested size: 444.23808pt x 256.56049pt.
-<8-cdm-echantillon2.PNG, id=81, 589.4522pt x 405.01312pt>
+<8-cdm-echantillon2.PNG, id=83, 589.4522pt x 405.01312pt>
 File: 8-cdm-echantillon2.PNG Graphic file (type png)
 <use 8-cdm-echantillon2.PNG>
-Package pdftex.def Info: 8-cdm-echantillon2.PNG  used on input line 433.
+Package pdftex.def Info: 8-cdm-echantillon2.PNG  used on input line 434.
 (pdftex.def)             Requested size: 235.7767pt x 162.00237pt.
-<8-cdm-echantillon3.PNG, id=82, 189.5445pt x 140.598pt>
+<8-cdm-echantillon3.PNG, id=84, 189.5445pt x 140.598pt>
 File: 8-cdm-echantillon3.PNG Graphic file (type png)
 <use 8-cdm-echantillon3.PNG>
-Package pdftex.def Info: 8-cdm-echantillon3.PNG  used on input line 434.
+Package pdftex.def Info: 8-cdm-echantillon3.PNG  used on input line 435.
 (pdftex.def)             Requested size: 265.36046pt x 196.83585pt.
 
 
@@ -817,15 +803,15 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [19 <./6-cdm-espace_de_travail.JPG> <./8-cdm-echantillon1.PNG>] [20 <./8-cdm-ec
 hantillon2.PNG> <./8-cdm-echantillon3.PNG>]
-<9-cdm-utilite.PNG, id=92, 211.554pt x 145.5255pt>
+<9-cdm-utilite.PNG, id=94, 211.554pt x 145.5255pt>
 File: 9-cdm-utilite.PNG Graphic file (type png)
 <use 9-cdm-utilite.PNG>
-Package pdftex.def Info: 9-cdm-utilite.PNG  used on input line 468.
+Package pdftex.def Info: 9-cdm-utilite.PNG  used on input line 469.
 (pdftex.def)             Requested size: 317.33022pt x 218.28769pt.
-<9-cdm-satisfaction.PNG, id=93, 204.327pt x 141.5835pt>
+<9-cdm-satisfaction.PNG, id=95, 204.327pt x 141.5835pt>
 File: 9-cdm-satisfaction.PNG Graphic file (type png)
 <use 9-cdm-satisfaction.PNG>
-Package pdftex.def Info: 9-cdm-satisfaction.PNG  used on input line 483.
+Package pdftex.def Info: 9-cdm-satisfaction.PNG  used on input line 484.
 (pdftex.def)             Requested size: 306.48972pt x 212.37471pt.
 
 
@@ -835,10 +821,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [21 <./9-cdm-utilite.PNG>]
-<9-cdm-analyse.PNG, id=98, 1112.65688pt x 771.63281pt>
+<9-cdm-analyse.PNG, id=100, 1112.65688pt x 771.63281pt>
 File: 9-cdm-analyse.PNG Graphic file (type png)
 <use 9-cdm-analyse.PNG>
-Package pdftex.def Info: 9-cdm-analyse.PNG  used on input line 495.
+Package pdftex.def Info: 9-cdm-analyse.PNG  used on input line 496.
 (pdftex.def)             Requested size: 556.32709pt x 385.81546pt.
 
 
@@ -848,22 +834,22 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [22 <./9-cdm-satisfaction.PNG>] [23 <./9-cdm-analyse.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 515--516
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 518--519
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 528--530
+Underfull \hbox (badness 10000) in paragraph at lines 529--531
 
  []
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 539--541
+Underfull \hbox (badness 10000) in paragraph at lines 540--542
 
  []
 
@@ -885,29 +871,34 @@ Package natbib Warning: There were undefined citations.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 9208 strings out of 475382
- 164460 string characters out of 2775385
+ 9212 strings out of 475382
+ 164500 string characters out of 2775385
  524164 words of memory out of 3000000
- 30444 multiletter control sequences out of 15000+600000
- 529761 words of font info for 59 fonts, out of 8000000 for 9000
+ 30446 multiletter control sequences out of 15000+600000
+ 535743 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,9n,117p,1559b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{
 C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:
 /Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmb10.pfb><C:
 /Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><
+C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><
 C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><
-C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-<C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb
-><C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.
-pfb><C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso1
-2.pfb><C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt
-12.pfb>
-Output written on Projet_Gest_BP.pdf (30 pages, 1705690 bytes).
+C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C
+:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><
+C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb>
+<C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.p
+fb><C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12
+.pfb><C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt1
+2.pfb>
+Output written on Projet_Gest_BP.pdf (30 pages, 1767045 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
+ 177 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
