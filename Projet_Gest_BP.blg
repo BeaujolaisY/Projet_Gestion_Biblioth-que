@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Projet_Gest_BP.aux
+White space in argument---line 12 of file Projet_Gest_BP.aux
+ : \citation{Gouyon
+ :                  François 2008}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: unsrtnat.bst
+Database file #1: bibliographie.bib
+Warning--entry type for "noauthor_mesures_nodate" isn't style-file defined
+--line 80 of file bibliographie.bib
+Warning--I didn't find a database entry for "Gouyon"
+Warning--I didn't find a database entry for "LapèlerieFrançois1994"
+Warning--I didn't find a database entry for "lanouvellebibliotheque2009"
+Warning--I didn't find a database entry for "etudiants2014"
+Warning--I didn't find a database entry for "lyceens2010"
+Warning--I didn't find a database entry for "expositions2012"
+Warning--I didn't find a database entry for "gaston2019"
+Warning--I didn't find a database entry for "makers2020"
+Warning--I didn't find a database entry for "servicessociaux2008"
+Warning--empty journal in saleh_bibliotheques_2009
+Warning--empty journal in rondot_bibliotheques_2022
+Warning--empty journal in young1998evaluation
+You've used 6 entries,
+            2481 wiz_defined-function locations,
+            600 strings with 5830 characters,
+and the built_in function-call counts, 1990 in all, are:
+= -- 180
+> -- 57
+< -- 5
++ -- 28
+- -- 16
+* -- 126
+:= -- 305
+add.period$ -- 23
+call.type$ -- 6
+change.case$ -- 11
+chr.to.int$ -- 6
+cite$ -- 10
+duplicate$ -- 113
+empty$ -- 204
+format.name$ -- 23
+if$ -- 431
+int.to.chr$ -- 1
+int.to.str$ -- 7
+missing$ -- 6
+newline$ -- 43
+num.names$ -- 15
+pop$ -- 57
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 72
+stack$ -- 0
+substring$ -- 75
+swap$ -- 15
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 39
+warning$ -- 3
+while$ -- 16
+width$ -- 0
+write$ -- 89
+(There was 1 error message)
