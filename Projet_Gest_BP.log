@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2022.11.25)  11 DEC 2022 18:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2022.11.25)  11 DEC 2022 19:31
 entering extended mode
 **./Projet_Gest_BP.tex
 (Projet_Gest_BP.tex
@@ -729,38 +729,101 @@ Underfull \hbox (badness 10000) in paragraph at lines 366--367
 File: 1-cdm-vue_generale.JPG Graphic file (type jpg)
 <use 1-cdm-vue_generale.JPG>
 Package pdftex.def Info: 1-cdm-vue_generale.JPG  used on input line 379.
-(pdftex.def)             Requested size: 385.4405pt x 256.51065pt.
+(pdftex.def)             Requested size: 481.79881pt x 320.6371pt.
 [16]
 <2-cdm-bibliotheque.JPG, id=67, 192.72pt x 120.45pt>
 File: 2-cdm-bibliotheque.JPG Graphic file (type jpg)
 <use 2-cdm-bibliotheque.JPG>
-Package pdftex.def Info: 2-cdm-bibliotheque.JPG  used on input line 388.
+Package pdftex.def Info: 2-cdm-bibliotheque.JPG  used on input line 387.
 (pdftex.def)             Requested size: 289.07927pt x 180.67453pt.
- [17 <./1-cdm-vue_generale.JPG> <./2-cdm-bibliotheque.JPG>]
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
+<3-cdm-centre_de_documentation.JPG, id=68, 192.72pt x 128.1588pt>
+File: 3-cdm-centre_de_documentation.JPG Graphic file (type jpg)
+<use 3-cdm-centre_de_documentation.JPG>
+Package pdftex.def Info: 3-cdm-centre_de_documentation.JPG  used on input line 
+391.
+(pdftex.def)             Requested size: 289.07927pt x 192.23772pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<4-cdm-espace_conseil.JPG, id=69, 203.67pt x 135.6705pt>
+File: 4-cdm-espace_conseil.JPG Graphic file (type jpg)
+<use 4-cdm-espace_conseil.JPG>
+Package pdftex.def Info: 4-cdm-espace_conseil.JPG  used on input line 395.
+(pdftex.def)             Requested size: 285.13602pt x 189.93738pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<5-cdm-auditorium.JPG, id=70, 204.327pt x 135.999pt>
+File: 5-cdm-auditorium.JPG Graphic file (type jpg)
+<use 5-cdm-auditorium.JPG>
+Package pdftex.def Info: 5-cdm-auditorium.JPG  used on input line 399.
+(pdftex.def)             Requested size: 286.05582pt x 190.39728pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
+[][] \T1/lmr/m/n/12  |L'au-di-to-rium
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<6-cdm-espace_de_travail.JPG, id=71, 203.9985pt x 135.6705pt>
+File: 6-cdm-espace_de_travail.JPG Graphic file (type jpg)
+<use 6-cdm-espace_de_travail.JPG>
+Package pdftex.def Info: 6-cdm-espace_de_travail.JPG  used on input line 403.
+(pdftex.def)             Requested size: 285.59595pt x 189.93738pt.
+
+Underfull \hbox (badness 5217) in paragraph at lines 404--404
+[][] \T1/lmr/m/n/12  |L'es-pace tra-
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17 <./1-cdm-vue_generale.JPG> <./2-cdm-bibliotheque.JPG>] [18 <./3-cdm-centre_
+de_documentation.JPG> <./4-cdm-espace_conseil.JPG>]
+<8-cdm-echantillon1.PNG, id=79, 1480.78218pt x 855.195pt>
+File: 8-cdm-echantillon1.PNG Graphic file (type png)
+<use 8-cdm-echantillon1.PNG>
+Package pdftex.def Info: 8-cdm-echantillon1.PNG  used on input line 427.
+(pdftex.def)             Requested size: 444.23808pt x 256.56049pt.
+ [19 <./5-cdm-auditorium.JPG> <./6-cdm-espace_de_travail.JPG>]
+<8-cdm-echantillon2.PNG, id=84, 589.4522pt x 405.01312pt>
+File: 8-cdm-echantillon2.PNG Graphic file (type png)
+<use 8-cdm-echantillon2.PNG>
+Package pdftex.def Info: 8-cdm-echantillon2.PNG  used on input line 430.
+(pdftex.def)             Requested size: 235.7767pt x 162.00237pt.
+<8-cdm-echantillon3.PNG, id=85, 189.5445pt x 140.598pt>
+File: 8-cdm-echantillon3.PNG Graphic file (type png)
+<use 8-cdm-echantillon3.PNG>
+Package pdftex.def Info: 8-cdm-echantillon3.PNG  used on input line 431.
+(pdftex.def)             Requested size: 265.36046pt x 196.83585pt.
+ [20 <./8-cdm-echantillon1.PNG> <./8-cdm-echantillon2.PNG> <./8-cdm-echantillon
+3.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--400
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 409--411
+Underfull \hbox (badness 10000) in paragraph at lines 458--460
 
  []
 
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 420--422
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 469--471
 
  []
 
-[19] [20] [21] (Projet_Gest_BP.lof)
+[22] [23] [24] (Projet_Gest_BP.lof)
 \tf@lof=\write4
 \openout4 = `Projet_Gest_BP.lof'.
 
- [22] (Projet_Gest_BP.bbl
+ [25] (Projet_Gest_BP.bbl
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4
 6.
 
@@ -770,7 +833,7 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 Package natbib Warning: There were undefined citations.
 
-[23] (Projet_Gest_BP.aux)
+[26] (Projet_Gest_BP.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -779,10 +842,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 9130 strings out of 475382
- 162520 string characters out of 2775385
- 522900 words of memory out of 3000000
- 30376 multiletter control sequences out of 15000+600000
+ 9184 strings out of 475382
+ 163957 string characters out of 2775385
+ 524032 words of memory out of 3000000
+ 30423 multiletter control sequences out of 15000+600000
  529761 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,9n,117p,1559b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -797,9 +860,9 @@ C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
 pfb><C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso1
 2.pfb><C:/Users/aubert/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt
 12.pfb>
-Output written on Projet_Gest_BP.pdf (24 pages, 758978 bytes).
+Output written on Projet_Gest_BP.pdf (27 pages, 1288747 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
+ 152 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
